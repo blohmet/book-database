@@ -1,4 +1,3 @@
-# book-database
 # Personal Book Database
 
 ## Overview
