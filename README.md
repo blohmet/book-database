@@ -28,7 +28,7 @@ books.csv - Sample dataset
 
 README.md - Project overview and roadmap
 
-Current work includes:
+## Current work includes:
 
 - Designing the database schema
 - Creating and connecting related tables
