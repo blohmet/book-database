@@ -2,19 +2,22 @@
 
 ## Overview
 
-I created this project to organize my growing personal reading list in a structured, searchable way.
+This project began with a simple question: What genres am I adding to my TBR?
 
-As a librarian with a background in Computer Information Systems, I am interested in metadata, database design, and the ways information can be organized for easier access and analysis.
+As a librarian with a background in Computer Information Systems, I am interested in metadata, database design, and the ways information can be organized for easier access and analysis. So, I thought this would be a great project to not only design a database and play with data, but also to answer my question!
 
-This project began as a simple book list and is evolving into a relational database inspired by library catalog systems. The long term goal is creating a repository that supports search, reporting, and data visualization.
+As the project grew, it evolved into designing a PostgreSQL bibliographic database inspired by Integrated Library Systems (ILS) and WorldCat. The goal is to balance efficient cataloging workflows with relational database design, automation, and reporting through Power BI while keeping data entry intuitive for the cataloger.
 
 ## Project Goals
 
-- Design a normalized relational database
-- Organize book metadata efficiently
-- Practice SQL queries and database relationships
-- Explore patterns in genres, publishers, authors, and publication dates
-- Build an OPAC-inspired web interface in the future
+- Design a normalized relational database for bibliographic metadata using PostgreSQL.
+- Create a cataloging workflow inspired by Integrated Library Systems (ILS) and WorldCat.
+- Practice SQL, relational database design, ETL concepts, and data modeling.
+- Organize book metadata for efficient querying, reporting, and future automation.
+- Analyze trends in genres, publishers, authors, publication dates, and personal reading habits.
+- Build Power Query transformations and Power BI dashboards for reporting and visualization.
+- Develop an OPAC-inspired web interface for browsing and searching the collection.
+- Design automation that reduces repetitive data-entry tasks while preserving an efficient cataloging workflow.
 
 ## Current Status
 
@@ -22,19 +25,23 @@ This project is currently in development.
 
 ## Repository Structure
 
-book_database_schema.sql - Database schema
-
-books.csv - Sample dataset
-
-README.md - Project overview and roadmap
+book-database/
+│
+├── book_database_schema.sql    - PostgreSQL database schema
+├── books.csv                   - Source bibliographic dataset
+├── Book_Genres.csv             - Power Query transformed genre reporting table
+├── Book_Subjects.csv           - Power Query transformed subject reporting table
+├── Book_Database.xlsx          - Master workbook containing Power Query transformations
+└── README.md                   - Project overview, goals, and roadmap
 
 ## Current work includes:
 
-- Designing the database schema
+- Designing and refining the database schema
 - Creating and connecting related tables
 - Adding book records
-- Exporting SQL schema and sample data
-- Preparing the data for future visualizations
+- Building Power Query transformations
+- Preparing data for future Power BI visualizations
+- Planning publisher and imprint relationships
 
 ## Planned Features
 
@@ -45,6 +52,9 @@ README.md - Project overview and roadmap
 - PHP-based web interface
 - Personal reading statistics
 - Random book recommendation feature
+- Automated publisher, genre, and subject relationships
+- Publisher/imprint hierarchy
+- OPAC-inspired interface
 
 ## Skills Demonstrated
 
@@ -55,6 +65,9 @@ README.md - Project overview and roadmap
 - Data Normalization
 - Metadata Management
 - Documentation
+- Power Query
+- ETL
+- Power BI (in progress)
 
 ## Project Inspiration
 
