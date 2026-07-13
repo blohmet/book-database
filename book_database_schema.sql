@@ -1,59 +1,33 @@
-INSERT INTO public.books (title,author_first_name,author_last_name,publisher,is_series,series_title,series_number,publication_year,price,genre_1,genre_2,genre_3,subject_1,subject_2,fiction_status,purchase_url,status,notes) VALUES
-	 ('Fisherman''s gift','Julia R.','Kelly','Simon and Schuster',false,NULL,NULL,2025,28.00,'Historical','Romance',NULL,'Scotland','Missing Children','Fiction','https://www.simonandschuster.com/books/The-Fishermans-Gift/Julia-R-Kelly/9781668068694','Want',NULL),
-	 ('Inheritance','Nora','Roberts','St. Martin''s ',true,'Lost Bride Trilogy',1,2023,30.00,'Romance','Thriller',NULL,'Paranormal','Man-Woman Relationships','Fiction','https://us.macmillan.com/books/9781250902450/inheritance/','Want',NULL),
-	 ('The Gilded Heiress','Joanna','Shupe','Avon',false,NULL,NULL,2025,19.00,'Romance','Historical','Mystery','Kidnapping','19th century','Fiction','https://www.harpercollins.com/products/the-gilded-heiress-joanna-shupe?variant=41628930736162','Want',NULL),
-	 ('Gothictown','Emily','Carpenter','Kensington',false,NULL,NULL,2025,28.00,'Gothic','Thriller',NULL,'Small towns','Georgia','Fiction','https://www.penguinrandomhouse.com/books/770857/gothictown-by-emily-carpenter/','Want','Creepy founding familys decide it''s a great idea to harass some lady after COVID'),
-	 ('The Seven Rings','Nora','Roberts','St. Martin''s',true,'Lost Brides Trilogy',3,2025,30,'Romance','Thriller',NULL,'Paranormal','Man-Woman Relationships','Fiction','https://us.macmillan.com/books/9781250288790/thesevenrings/','Want',NULL),
-	 ('The Mirror','Nora','Roberts','St. Martin''s',true,'Lost Brides Trilogy',2,2024,30.00,'Romance','Thriller','','Paranormal','Man-Woman Relationships','Fiction','https://us.macmillan.com/books/9781250901477/themirror/','Want',NULL),
-	 ('The Serviceberry','Robin','Wall Kimmerer','Simon and Schuster',false,NULL,NULL,2024,20.00,'Social Sciences','Philosophy','Essays','Nature','Indegenous Peoples','Non-Fiction','https://www.simonandschuster.com/books/The-Serviceberry/Robin-Wall-Kimmerer/9781668072240','Want',NULL),
-	 ('Dream State','Eric','Puchner','Doubleday',false,NULL,NULL,2025,28,'Literary',NULL,NULL,'Families','Montana','Fiction','https://www.penguinrandomhouse.com/books/744560/dream-state-oprahs-book-club-by-eric-puchner/','Want',NULL),
-	 ('Three days in June','Anne','Tyler','Knopf',false,NULL,NULL,2025,27.00,'Literary','Domestic',NULL,'Mothers and Daughters','Weddings','Fiction','https://www.penguinrandomhouse.com/books/768610/three-days-in-june-by-anne-tyler/','Want',NULL),
-	 ('Everything is Tuberculosis','John','Green','Crash Course Books',false,NULL,NULL,2025,28,'Informational Works','History',NULL,'Medicine','Diseases','Non-Fiction','https://www.penguinrandomhouse.com/books/312472/everything-is-tuberculosis-by-john-green/','Want',NULL);
-INSERT INTO public.books (title,author_first_name,author_last_name,publisher,is_series,series_title,series_number,publication_year,price,genre_1,genre_2,genre_3,subject_1,subject_2,fiction_status,purchase_url,status,notes) VALUES
-	 ('Dream Count','Chimamanda Ngozi','Adichi','Knopf',false,NULL,NULL,2025,32.00,'Literary','Romance','World','Nigeria','Women','Fiction','https://www.penguinrandomhouse.com/books/753002/dream-count-by-chimamanda-ngozi-adichie/','Want',NULL),
-	 ('How to love better','Yung','Pueblo','Harmony',false,NULL,NULL,2025,27.00,'Self-help',NULL,NULL,'Relationships',NULL,'Non-Fiction','https://www.penguinrandomhouse.com/books/736336/how-to-love-better-by-yung-pueblo/','Want',NULL),
-	 ('Life cycle of the common octopus','Emma','Knight','Penguin Random House',false,NULL,NULL,2026,19.00,'Women','Literary',NULL,'Motherhood','Family secrets','Fiction','https://www.penguinrandomhouse.com/books/743268/the-life-cycle-of-the-common-octopus-a-read-with-jenna-pick-by-emma-knight/','',NULL),
-	 ('Goddess Complex','Sanjena','Sathian','Penguin Books',false,NULL,NULL,2025,29.00,'Literary',NULL,NULL,'India','Divorces','Fiction','https://www.penguinrandomhouse.com/books/696780/goddess-complex-by-sanjena-sathian/','Want',NULL),
-	 ('Junie','Erin','Crosby Eckstine','Ballantine',false,NULL,NULL,2025,30.00,'Historical','Literary','Gothic','Slavery','Liberation','Fiction','https://www.penguinrandomhouse.com/books/738885/junie-a-gma-book-club-pick-by-erin-crosby-eckstine/','',NULL),
-	 ('Medicine River','Mary Annette','Pember','Pantheon',false,NULL,NULL,2025,29.00,'Biography','History',NULL,'Indegenous People','Boarding Schools','Non-Fiction','https://www.penguinrandomhouse.com/books/721761/medicine-river-by-mary-annette-pember/','Want',NULL),
-	 ('One Good Thing','Georgia','Hunter','Penguin Random House',false,NULL,NULL,2025,19.00,'Historical',NULL,NULL,'World War II','Friendship','Fiction','https://www.penguinrandomhouse.com/books/625718/one-good-thing-by-georgia-hunter/','Want',NULL),
-	 ('Animal Instinct','Amy','Shearn','GP Putnam',false,NULL,NULL,2025,29.00,'Literary',NULL,NULL,'Self-realization','AI','Fiction','https://www.penguinrandomhouse.com/books/746997/animal-instinct-by-amy-shearn/','Want',NULL),
-	 ('Aunt Tigress','Emily','Yu-Xuan Qin','DAW',false,NULL,NULL,2025,29.00,'Fantasy','Romance','Urban','Monsters','LGBTQ','Fiction','https://www.penguinrandomhouse.com/books/773393/aunt-tigress-by-emily-yu-xuan-qin/','Want',NULL),
-	 ('Beach Vibes','Susan','Mallery','Hatchette',false,NULL,NULL,2025,30.00,'Women','Romance',NULL,'Beaches','Man-woman relationships','Fiction','https://www.barnesandnoble.com/w/beach-vibes-susan-mallery/1145530536','Want',NULL);
-INSERT INTO public.books (title,author_first_name,author_last_name,publisher,is_series,series_title,series_number,publication_year,price,genre_1,genre_2,genre_3,subject_1,subject_2,fiction_status,purchase_url,status,notes) VALUES
-	 ('Bent, but not broken','Mary','Monroe','Kensington',true,'Lexington, Alabama',5,2025,18.95,'Historical','Domestic',NULL,'African-Americans','Mothers and Daughters','Fiction','https://www.kensingtonbooks.com/shop/bent-but-not-broken/?v=0b3b97fa6688','Want',NULL),
-	 ('The Big Fix','Holly','James','Kensington',false,NULL,NULL,2025,28.00,'Mystery','Humor','Romance','Amateur Sleuth','Mistaken identity','Fiction','https://www.kensingtonbooks.com/shop/the-big-fix/?v=0b3b97fa6688','Want',NULL),
-	 ('Buffalo Hunter Hunter','Stephen Graham','Jones','Simon and Schuster',false,NULL,NULL,2025,30.00,'Horror','Historical',NULL,'Indegenous People','Vampires','Fiction','https://www.simonandschuster.com/books/The-Buffalo-Hunter-Hunter/Stephen-Graham-Jones/9781668075081','Want',NULL),
-	 ('Chloe','Connie','Briscoe','Amistad',false,NULL,NULL,2025,30.00,'Gothic','Thriller','Domestic','Retellings','Family Secrets','Fiction','https://www.harpercollins.com/products/chloe-connie-briscoe?variant=42846738350114','Want',NULL),
-	 ('Code word romance','Carlie','Walker','Berkley',false,NULL,NULL,2025,19.00,'Romance','Humor',NULL,'Vacations','Italy','Fiction','https://www.penguinrandomhouse.com/books/735997/code-word-romance-by-carlie-walker/','Want',NULL),
-	 ('Dissolution','Nicholas','Binge','Riverhead',false,NULL,NULL,2025,30.00,'Science Fiction','Thriller',NULL,'Memories','Secrecy','Fiction','https://www.penguinrandomhouse.com/books/762784/dissolution-by-nicholas-binge/','Want',NULL),
-	 ('Everybody says it''s everything','Xhenet','Aliu','Penguin Random House',false,NULL,NULL,2025,29.00,'Literary','Historical',NULL,'Adoptees','War','Fiction','https://www.penguinrandomhouse.com/books/749045/everybody-says-its-everything-by-xhenet-aliu/9780593732274/','Want',NULL),
-	 ('Fight or Flight','Fern','Michaels','Kensington',false,NULL,NULL,2025,28.00,'Thriller','Romance',NULL,'Authors','Recluse people','Fiction','https://www.kensingtonbooks.com/shop/fight-or-flight/?v=0b3b97fa6688','Want',NULL),
-	 ('Haunting of Room 904','Erika','Wurth','Flatiron',false,NULL,NULL,2025,28.00,'Horror','Thriller',NULL,'Paranormal','Cults','Fiction','https://us.macmillan.com/books/9781250908599/thehauntingofroom904/','Want',NULL),
-	 ('Hot Air','Maria','Demarsky','Penguin Random House',false,NULL,NULL,2025,28,'Literary','Women',NULL,'Billionaires','First Dates','Fiction','https://www.penguinrandomhouse.com/books/688426/hot-air-by-marcy-dermansky/','Want',NULL);
-INSERT INTO public.books (title,author_first_name,author_last_name,publisher,is_series,series_title,series_number,publication_year,price,genre_1,genre_2,genre_3,subject_1,subject_2,fiction_status,purchase_url,status,notes) VALUES
-	 ('Hope''s Enduring Echo','Kim Vogel','Sawyer','Waterbrook',false,NULL,NULL,2025,19,'Christian','Romance','Historical','Paleontology','19th century','Fiction','https://www.penguinrandomhouse.com/books/738115/hopes-enduring-echo-by-kim-vogel-sawyer/','Want',NULL),
-	 ('Hymn to Dionysus','Natasha','Pulley','Bloomsbury',false,NULL,NULL,2025,29,'Mythology','Historical','Romance','Greek Mythology','Queer','Fiction','https://www.bloomsbury.com/us/hymn-to-dionysus-9781639732364/','Want',NULL),
-	 ('I would die for you','Sadie','Jones','Minotaur',false,NULL,NULL,2025,29,'Thriller',NULL,NULL,'Musicians','Missing people','Fiction','https://us.macmillan.com/books/9781250910035/iwoulddieforyou/','Want',NULL),
-	 ('It all comes back to you','Melissa','Weisner','Forever',false,NULL,NULL,2025,19,'Romance',NULL,NULL,'Man-woman relationships','Secrecy','Fiction','https://www.hachettebookgroup.com/titles/melissa-wiesner/it-all-comes-back-to-you/9781538770429/?lens=forever','Want',NULL),
-	 ('Just our Luck','Denise','Williams','Berkley',false,NULL,NULL,2025,19.00,'Romance',NULL,NULL,'Man-Women relationship','Bakeries','Fiction','https://www.penguinrandomhouse.com/books/739630/just-our-luck-by-denise-williams/','Want',NULL),
-	 ('Keeper of Lonely Spirits','E. M.','Anderson','Mira',false,NULL,NULL,2025,28.00,'Fantasy','Mystery',NULL,'Paranormal','LGBTQ','Fiction','https://www.harpercollins.com/products/the-keeper-of-lonely-spirits-em-anderson?variant=43103037882402','Want',NULL),
-	 ('Murder by Memory','Olivia','Waite','Tor',false,NULL,NULL,2025,28,'Mystery','Science Fiction',NULL,'Spaceships','Cozy','Fiction','https://us.macmillan.com/books/9781250342249/murderbymemory/','',''),
-	 ('Map to Paradise','Susan','Meissner','Berkley',false,NULL,NULL,2025,29.00,'Historial',NULL,NULL,'Actresses','Ninteen-fifties','Fiction','https://www.penguinrandomhouse.com/books/667327/a-map-to-paradise-by-susan-meissner/','Want',NULL),
-	 ('Nowhere','Allison','Gunn','Atria',false,NULL,NULL,2025,19.00,'Thriller','Horror',NULL,'Appalachia','Creepy','Fiction','https://www.simonandschuster.com/books/Nowhere/Allison-Gunn/9781668046661','Want',NULL),
-	 ('The Other People','C.B.','Everett','Atria',false,NULL,NULL,2025,28.00,'Thriller','Psychological',NULL,'Serial Murders','Amnesia','Fiction','https://www.simonandschuster.com/books/The-Other-People/C-B-Everett/9781668058312','Want',NULL);
-INSERT INTO public.books (title,author_first_name,author_last_name,publisher,is_series,series_title,series_number,publication_year,price,genre_1,genre_2,genre_3,subject_1,subject_2,fiction_status,purchase_url,status,notes) VALUES
-	 ('Our Beautiful Boys','Someer','Pandya','Ballantine',false,NULL,NULL,2025,28.00,'Literary',NULL,NULL,'Family Secrets','Racism','Fiction','https://www.penguinrandomhouse.com/books/743614/our-beautiful-boys-by-sameer-pandya/','Want',NULL),
-	 ('The Paris Express','Emma','Donoghue','Summit',false,NULL,NULL,2025,29.00,'Literary','Historical',NULL,'Paris','Trains','Fiction','https://www.simonandschuster.com/books/The-Paris-Express/Emma-Donoghue/9781668082799','Want',NULL),
-	 ('Passing through a prairie country','Dennis E.','Staples','Counterpoint',false,NULL,NULL,2025,29.00,'Horror','Thriller',NULL,'Indegenous Peoples','Dreams','Fiction','https://www.counterpointpress.com/books/passing-through-a-prairie-country/','Want',NULL),
-	 ('Space Brooms!','A.G.','Rodriguez','Angry Robot',false,NULL,NULL,2025,19.00,'Science Fiction',NULL,NULL,'Smugglers','Janitors','Fiction','https://angryrobotbooks.com/books/space-brooms/','Want',NULL),
-	 ('The Formidable Miss Cassidy','Mei Han','Boey','Harper Perennial',false,NULL,NULL,2025,19.00,'Historical','Fantasy',NULL,'Governesses','Magic','Fiction','https://www.harpercollins.com/products/the-formidable-miss-cassidy-meihan-boey?variant=43733986312226','Want',NULL),
-	 ('The Fort','Christy K.','Lee','Rising Action',false,NULL,NULL,2025,18,'Historical',NULL,NULL,'Survival','Fur Trading','Fiction','https://www.simonandschuster.com/books/The-Fort/Christy-K-Lee/9781998076413','Want',NULL),
-	 ('Daring to fall for the prince','Heba','Helmy','Harlequin',false,NULL,NULL,2025,10.00,'Romance','Historical',NULL,'Egypt','Nobility','Fiction','https://harlequin.com/products/daring-to-fall-for-the-prince?variant=44992997589168','Want',NULL),
-	 ('One Scandal too Many','Dawn','Brower','Independently Published',true,'Havenwood',3,2025,6.00,'Romance','Historical',NULL,'Nobility','Finishing Schools','Fiction','https://www.barnesandnoble.com/w/one-scandal-too-many-dawn-brower/1149021100?ean=9798233443374','Want',NULL),
-	 ('The Cardinal','Alison','Weir','Ballantine',false,NULL,NULL,2025,19.00,'Historical','Literary',NULL,'Churches','Great Britain','Fiction','https://www.penguinrandomhouse.com/books/771985/the-cardinal-by-alison-weir/','Want',NULL),
-	 ('Under a Waning Moon','Steven L.','Ririe','Independently Published',true,'As the Starlings Fly',1,2025,6,'Christian','Fantasy',NULL,'Plagues','Survival','Fiction','https://a.co/d/0ilXNV91','Want',NULL);
-INSERT INTO public.books (title,author_first_name,author_last_name,publisher,is_series,series_title,series_number,publication_year,price,genre_1,genre_2,genre_3,subject_1,subject_2,fiction_status,purchase_url,status,notes) VALUES
-	 ('Smoke in the Cypress','Own','Pataki','Permuted Press',false,NULL,NULL,2025,24.00,'Historical','Thriller',NULL,'War of 1812','Louisiana','Fiction','https://www.simonandschuster.com/books/Smoke-in-the-Cypress/Owen-Pataki/9798888455838','Want',NULL),
-	 ('The Dressmaker''s Secret','Michelle','Vernal','Bookoture',false,NULL,NULL,2025,11,'Historical','Romance',NULL,'Dressmaking','Orphans','Fiction','https://a.co/d/02VssX3x','Want',NULL),
-	 ('Death in an English Village','Fliss','Chester','Bookotoure',true,'Cressida Fawcett Mysteries',7,2025,10.00,'Mystery','Historical',NULL,'Buried Treasure','Dogs','Fiction','https://a.co/d/06Rj8YZY','Want',NULL);
+-- public.books definition
+-- Drop table
+-- DROP TABLE public.books;
+
+create table public.books (
+	book_id int4 generated by default as identity( increment by 1 minvalue 1 maxvalue 2147483647 start 1 cache 1 no cycle) not null,
+	title text not null,
+	author_first_name text not null,
+	author_last_name text not null,
+	imprint_name text not null,
+	is_series bool default false not null,
+	series_title text null,
+	series_number int4 null,
+	publication_year int4 null,
+	price numeric null,
+	genre_1 text not null,
+	genre_2 text null,
+	genre_3 text null,
+	subject_1 text null,
+	subject_2 text null,
+	fiction_status text default 'Fiction'::text not null,
+	purchase_url text null,
+	status text default 'Want'::text not null,
+	notes text null,
+	imprint_id int4 null,
+	publisher_id int4 null,
+	constraint books_fixed_pkey primary key (book_id)
+);
+-- public.books foreign keys
+
+alter table public.books add constraint books_fixed_imprint_id_fkey foreign key (imprint_id) references public.books_imprints(imprint_id);
+
+alter table public.books add constraint books_publisher_fk foreign key (publisher_id) references public.books_publishers(publisher_id);
