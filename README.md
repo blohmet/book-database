@@ -25,23 +25,21 @@ Current milestone: Relational schema completed, authority tables implemented, 60
 
 ## Repository Structure
 
+```text
 book-database/
-│
 ├── schema/
 │   ├── book_database_schema.sql
 │   ├── books_publishers.csv
 │   └── books_imprints.csv
-│
 ├── data/
 │   ├── books.csv
 │   ├── Book_Genres.csv
 │   ├── Book_Subjects.csv
 │   └── Book_Database.xlsx
-│
 ├── scripts/
 │   └── batch_fill_imprint_ids.sql
-│
 └── README.md
+```
 
 ## Workflow
 
