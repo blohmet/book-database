@@ -1,104 +1,119 @@
 "book_id","genre","title","genre_position"
-26,Historical,Fisherman's gift,genre_1
-26,Romance,Fisherman's gift,genre_2
-1,Romance,Inheritance,genre_1
-1,Thriller,Inheritance,genre_2
-27,Romance,The Gilded Heiress,genre_1
-27,Historical,The Gilded Heiress,genre_2
-27,Mystery,The Gilded Heiress,genre_3
-28,Gothic,Gothictown,genre_1
-28,Thriller,Gothictown,genre_2
-3,Romance,The Seven Rings,genre_1
-3,Thriller,The Seven Rings,genre_2
-2,Romance,The Mirror,genre_1
-2,Thriller,The Mirror,genre_2
-4,Social Sciences,The Serviceberry,genre_1
-4,Philosophy,The Serviceberry,genre_2
-4,Essays,The Serviceberry,genre_3
-5,Literary,Dream State,genre_1
-6,Literary,Three days in June,genre_1
-6,Domestic,Three days in June,genre_2
 7,Informational Works,Everything is Tuberculosis,genre_1
 7,History,Everything is Tuberculosis,genre_2
-8,Literary,Dream Count,genre_1
-8,Romance,Dream Count,genre_2
-8,World,Dream Count,genre_3
-9,Self-help,How to love better,genre_1
-10,Women,Life cycle of the common octopus,genre_1
-10,Literary,Life cycle of the common octopus,genre_2
+30,Christian,Hope's Enduring Echo,genre_1
+30,Romance,Hope's Enduring Echo,genre_2
+30,Historical,Hope's Enduring Echo,genre_3
 11,Literary,Goddess Complex,genre_1
-12,Historical,Junie,genre_1
-12,Literary,Junie,genre_2
-12,Gothic,Junie,genre_3
-13,Biography,Medicine River,genre_1
-13,History,Medicine River,genre_2
-14,Historical,One Good Thing,genre_1
 15,Literary,Animal Instinct,genre_1
 16,Fantasy,Aunt Tigress,genre_1
 16,Romance,Aunt Tigress,genre_2
 16,Urban,Aunt Tigress,genre_3
-17,Women,Beach Vibes,genre_1
-17,Romance,Beach Vibes,genre_2
+22,Romance,Code word romance,genre_1
+22,Humor,Code word romance,genre_2
+33,Thriller,I would die for you,genre_1
+37,Historical,Map to Paradise,genre_1
+35,Romance,Just our Luck,genre_1
+23,Science Fiction,Dissolution,genre_1
+23,Thriller,Dissolution,genre_2
+12,Historical,Junie,genre_1
+12,Literary,Junie,genre_2
+12,Gothic,Junie,genre_3
+49,Historical,The Cardinal,genre_1
+49,Literary,The Cardinal,genre_2
+41,Literary,Our Beautiful Boys,genre_1
+13,Biography,Medicine River,genre_1
+13,History,Medicine River,genre_2
+9,Self-help,How to love better,genre_1
+5,Literary,Dream State,genre_1
+8,Literary,Dream Count,genre_1
+8,Romance,Dream Count,genre_2
+8,World,Dream Count,genre_3
+6,Literary,Three days in June,genre_1
+6,Domestic,Three days in June,genre_2
+10,Women,Life cycle of the common octopus,genre_1
+10,Literary,Life cycle of the common octopus,genre_2
+14,Historical,One Good Thing,genre_1
+24,Literary,Everybody says it's everything,genre_1
+24,Historical,Everybody says it's everything,genre_2
+31,Literary,Hot Air,genre_1
+31,Women,Hot Air,genre_2
+42,Literary,The Paris Express,genre_1
+42,Historical,The Paris Express,genre_2
+39,Thriller,Nowhere,genre_1
+39,Horror,Nowhere,genre_2
+40,Thriller,The Other People,genre_1
+40,Psychological,The Other People,genre_2
+36,Fantasy,Keeper of Lonely Spirits,genre_1
+36,Mystery,Keeper of Lonely Spirits,genre_2
+47,Romance,Daring to fall for the prince,genre_1
+47,Historical,Daring to fall for the prince,genre_2
+21,Gothic,Chloe,genre_1
+21,Thriller,Chloe,genre_2
+21,Domestic,Chloe,genre_3
+45,Historical,The Formidable Miss Cassidy,genre_1
+45,Fantasy,The Formidable Miss Cassidy,genre_2
+27,Romance,The Gilded Heiress,genre_1
+27,Historical,The Gilded Heiress,genre_2
+27,Mystery,The Gilded Heiress,genre_3
+29,Horror,Haunting of Room 904,genre_1
+29,Thriller,Haunting of Room 904,genre_2
+38,Mystery,Murder by Memory,genre_1
+38,Science Fiction,Murder by Memory,genre_2
+1,Romance,Inheritance,genre_1
+1,Thriller,Inheritance,genre_2
+3,Romance,The Seven Rings,genre_1
+3,Thriller,The Seven Rings,genre_2
+2,Romance,The Mirror,genre_1
+2,Thriller,The Mirror,genre_2
+53,Historical,The Dressmaker's Secret,genre_1
+53,Romance,The Dressmaker's Secret,genre_2
+50,Mystery,Death in an English Village,genre_1
+50,Historical,Death in an English Village,genre_2
+34,Romance,It all comes back to you,genre_1
+32,Mythology,Hymn to Dionysus,genre_1
+32,Historical,Hymn to Dionysus,genre_2
+32,Romance,Hymn to Dionysus,genre_3
+43,Horror,Passing through a prairie country,genre_1
+43,Thriller,Passing through a prairie country,genre_2
+44,Science Fiction,Space Brooms!,genre_1
+46,Historical,The Fort,genre_1
+52,Historical,Smoke in the Cypress,genre_1
+52,Thriller,Smoke in the Cypress,genre_2
+51,Christian,Under a Waning Moon,genre_1
+51,Fantasy,Under a Waning Moon,genre_2
+48,Romance,One Scandal too Many,genre_1
+48,Historical,One Scandal too Many,genre_2
+28,Gothic,Gothictown,genre_1
+28,Thriller,Gothictown,genre_2
+25,Thriller,Fight or Flight,genre_1
+25,Romance,Fight or Flight,genre_2
 18,Historical,"Bent, but not broken",genre_1
 18,Domestic,"Bent, but not broken",genre_2
 19,Mystery,The Big Fix,genre_1
 19,Humor,The Big Fix,genre_2
 19,Romance,The Big Fix,genre_3
+56,Historical,The Heir,genre_1
+56,Mystery,The Heir,genre_2
+54,Mystery,Murder at the Wham Bam Club,genre_1
+54,Historical,Murder at the Wham Bam Club,genre_2
+55,Historical,Colony of Lost Souls,genre_1
+55,Gothic,Colony of Lost Souls,genre_2
+57,Historical,Diamonds in Auschwitz,genre_1
+17,Women,Beach Vibes,genre_1
+17,Romance,Beach Vibes,genre_2
+4,Social Sciences,The Serviceberry,genre_1
+4,Philosophy,The Serviceberry,genre_2
+4,Essays,The Serviceberry,genre_3
 20,Horror,Buffalo Hunter Hunter,genre_1
 20,Historical,Buffalo Hunter Hunter,genre_2
-21,Gothic,Chloe,genre_1
-21,Thriller,Chloe,genre_2
-21,Domestic,Chloe,genre_3
-22,Romance,Code word romance,genre_1
-22,Humor,Code word romance,genre_2
-23,Science Fiction,Dissolution,genre_1
-23,Thriller,Dissolution,genre_2
-24,Literary,Everybody says it's everything,genre_1
-24,Historical,Everybody says it's everything,genre_2
-25,Thriller,Fight or Flight,genre_1
-25,Romance,Fight or Flight,genre_2
-29,Horror,Haunting of Room 904,genre_1
-29,Thriller,Haunting of Room 904,genre_2
-31,Literary,Hot Air,genre_1
-31,Women,Hot Air,genre_2
-30,Christian,Hope's Enduring Echo,genre_1
-30,Romance,Hope's Enduring Echo,genre_2
-30,Historical,Hope's Enduring Echo,genre_3
-32,Mythology,Hymn to Dionysus,genre_1
-32,Historical,Hymn to Dionysus,genre_2
-32,Romance,Hymn to Dionysus,genre_3
-33,Thriller,I would die for you,genre_1
-34,Romance,It all comes back to you,genre_1
-35,Romance,Just our Luck,genre_1
-36,Fantasy,Keeper of Lonely Spirits,genre_1
-36,Mystery,Keeper of Lonely Spirits,genre_2
-38,Mystery,Murder by Memory,genre_1
-38,Science Fiction,Murder by Memory,genre_2
-37,Historial,Map to Paradise,genre_1
-39,Thriller,Nowhere,genre_1
-39,Horror,Nowhere,genre_2
-40,Thriller,The Other People,genre_1
-40,Psychological,The Other People,genre_2
-41,Literary,Our Beautiful Boys,genre_1
-42,Literary,The Paris Express,genre_1
-42,Historical,The Paris Express,genre_2
-43,Horror,Passing through a prairie country,genre_1
-43,Thriller,Passing through a prairie country,genre_2
-44,Science Fiction,Space Brooms!,genre_1
-45,Historical,The Formidable Miss Cassidy,genre_1
-45,Fantasy,The Formidable Miss Cassidy,genre_2
-46,Historical,The Fort,genre_1
-47,Romance,Daring to fall for the prince,genre_1
-47,Historical,Daring to fall for the prince,genre_2
-48,Romance,One Scandal too Many,genre_1
-48,Historical,One Scandal too Many,genre_2
-49,Historical,The Cardinal,genre_1
-49,Literary,The Cardinal,genre_2
-51,Christian,Under a Waning Moon,genre_1
-51,Fantasy,Under a Waning Moon,genre_2
-52,Historical,Smoke in the Cypress,genre_1
-52,Thriller,Smoke in the Cypress,genre_2
-53,Historical,The Dressmaker's Secret,genre_1
-53,Romance,The Dressmaker's Secret,genre_2
-50,Mystery,Death in an English Village,genre_1
-50,Historical,Death in an English Village,genre_2
+26,Historical,Fisherman's gift,genre_1
+26,Romance,Fisherman's gift,genre_2
+59,Mystery,The Missing Half,genre_1
+59,Women,The Missing Half,genre_2
+59,Thriller,The Missing Half,genre_3
+58,Mystery,Not quite dead yet,genre_1
+58,Thriller,Not quite dead yet,genre_2
+60,Psychological,Fox,genre_1
+60,Mystery,Fox,genre_2
+60,Thriller,Fox,genre_3
