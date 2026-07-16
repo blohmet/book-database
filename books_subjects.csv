@@ -1,106 +1,120 @@
 "book_id","title","subjects"
-26,Fisherman's gift,Scotland
-26,Fisherman's gift,Missing Children
-1,Inheritance,Paranormal
-1,Inheritance,Man-Woman Relationships
-27,The Gilded Heiress,Kidnapping
-27,The Gilded Heiress,"19th century"
-28,Gothictown,Small towns
-28,Gothictown,Georgia
-3,The Seven Rings,Paranormal
-3,The Seven Rings,Man-Woman Relationships
-2,The Mirror,Paranormal
-2,The Mirror,Man-Woman Relationships
-4,The Serviceberry,Nature
-4,The Serviceberry,Indegenous Peoples
-5,Dream State,Families
-5,Dream State,Montana
-6,Three days in June,Mothers and Daughters
-6,Three days in June,Weddings
 7,Everything is Tuberculosis,Medicine
 7,Everything is Tuberculosis,Diseases
-8,Dream Count,Nigeria
-8,Dream Count,Women
-9,How to love better,Relationships
-10,Life cycle of the common octopus,Motherhood
-10,Life cycle of the common octopus,Family secrets
+30,Hope's Enduring Echo,Paleontology
+30,Hope's Enduring Echo,"19th century"
 11,Goddess Complex,India
 11,Goddess Complex,Divorces
-12,Junie,Slavery
-12,Junie,Liberation
-13,Medicine River,Indegenous People
-13,Medicine River,Boarding Schools
-14,One Good Thing,World War II
-14,One Good Thing,Friendship
 15,Animal Instinct,Self-realization
 15,Animal Instinct,AI
 16,Aunt Tigress,Monsters
 16,Aunt Tigress,LGBTQ
-17,Beach Vibes,Beaches
-17,Beach Vibes,Man-woman relationships
-18,"Bent, but not broken",African-Americans
-18,"Bent, but not broken",Mothers and Daughters
-19,The Big Fix,Amateur Sleuth
-19,The Big Fix,Mistaken identity
-20,Buffalo Hunter Hunter,Indegenous People
-20,Buffalo Hunter Hunter,Vampires
-21,Chloe,Retellings
-21,Chloe,Family Secrets
 22,Code word romance,Vacations
 22,Code word romance,Italy
-23,Dissolution,Memories
-23,Dissolution,Secrecy
-24,Everybody says it's everything,Adoptees
-24,Everybody says it's everything,War
-25,Fight or Flight,Authors
-25,Fight or Flight,Recluse people
-29,Haunting of Room 904,Paranormal
-29,Haunting of Room 904,Cults
-31,Hot Air,Billionaires
-31,Hot Air,First Dates
-30,Hope's Enduring Echo,Paleontology
-30,Hope's Enduring Echo,"19th century"
-32,Hymn to Dionysus,Greek Mythology
-32,Hymn to Dionysus,Queer
 33,I would die for you,Musicians
 33,I would die for you,Missing people
-34,It all comes back to you,Man-woman relationships
-34,It all comes back to you,Secrecy
-35,Just our Luck,Man-Women relationship
-35,Just our Luck,Bakeries
-36,Keeper of Lonely Spirits,Paranormal
-36,Keeper of Lonely Spirits,LGBTQ
-38,Murder by Memory,Spaceships
-38,Murder by Memory,Cozy
 37,Map to Paradise,Actresses
-37,Map to Paradise,Ninteen-fifties
-39,Nowhere,Appalachia
-39,Nowhere,Creepy
-40,The Other People,Serial Murders
-40,The Other People,Amnesia
-41,Our Beautiful Boys,Family Secrets
+37,Map to Paradise,Nineteen-fifties
+35,Just our Luck,Man-woman relationships
+35,Just our Luck,Bakeries
+23,Dissolution,Memories
+23,Dissolution,Secrecy
+12,Junie,Slavery
+12,Junie,Liberation
+49,The Cardinal,Churches
+49,The Cardinal,Great Britain
+41,Our Beautiful Boys,Family secrets
 41,Our Beautiful Boys,Racism
+13,Medicine River,Indigenous
+13,Medicine River,Boarding schools
+9,How to love better,Relationships
+5,Dream State,Families
+5,Dream State,Montana
+8,Dream Count,Nigeria
+8,Dream Count,Women
+6,Three days in June,Mothers and daughters
+6,Three days in June,Weddings
+10,Life cycle of the common octopus,Motherhood
+10,Life cycle of the common octopus,Family secrets
+14,One Good Thing,World War II
+14,One Good Thing,Friendship
+24,Everybody says it's everything,Adoptees
+24,Everybody says it's everything,War
+31,Hot Air,Billionaires
+31,Hot Air,First Dates
 42,The Paris Express,Paris
 42,The Paris Express,Trains
-43,Passing through a prairie country,Indegenous Peoples
+39,Nowhere,Appalachia
+39,Nowhere,Creepy
+40,The Other People,Serial murders
+40,The Other People,Amnesia
+36,Keeper of Lonely Spirits,Paranormal
+36,Keeper of Lonely Spirits,LGBTQ
+47,Daring to fall for the prince,Egypt
+47,Daring to fall for the prince,Nobility
+21,Chloe,Retellings
+21,Chloe,Family secrets
+45,The Formidable Miss Cassidy,Governesses
+45,The Formidable Miss Cassidy,Magic
+27,The Gilded Heiress,Kidnapping
+27,The Gilded Heiress,"19th century"
+29,Haunting of Room 904,Paranormal
+29,Haunting of Room 904,Cults
+38,Murder by Memory,Spaceships
+38,Murder by Memory,Cozy
+1,Inheritance,Paranormal
+1,Inheritance,Man-woman relationships
+3,The Seven Rings,Paranormal
+3,The Seven Rings,Man-woman relationships
+2,The Mirror,Paranormal
+2,The Mirror,Man-woman relationships
+53,The Dressmaker's Secret,Dressmaking
+53,The Dressmaker's Secret,Orphans
+50,Death in an English Village,Buried treasure
+50,Death in an English Village,Dogs
+34,It all comes back to you,Man-woman relationships
+34,It all comes back to you,Secrecy
+32,Hymn to Dionysus,Greek Mythology
+32,Hymn to Dionysus,Queer
+43,Passing through a prairie country,Indigenous
 43,Passing through a prairie country,Dreams
 44,Space Brooms!,Smugglers
 44,Space Brooms!,Janitors
-45,The Formidable Miss Cassidy,Governesses
-45,The Formidable Miss Cassidy,Magic
 46,The Fort,Survival
-46,The Fort,Fur Trading
-47,Daring to fall for the prince,Egypt
-47,Daring to fall for the prince,Nobility
-48,One Scandal too Many,Nobility
-48,One Scandal too Many,Finishing Schools
-49,The Cardinal,Churches
-49,The Cardinal,Great Britain
-51,Under a Waning Moon,Plagues
-51,Under a Waning Moon,Survival
+46,The Fort,Fur trading
 52,Smoke in the Cypress,War of 1812
 52,Smoke in the Cypress,Louisiana
-53,The Dressmaker's Secret,Dressmaking
-53,The Dressmaker's Secret,Orphans
-50,Death in an English Village,Buried Treasure
-50,Death in an English Village,Dogs
+51,Under a Waning Moon,Plagues
+51,Under a Waning Moon,Survival
+48,One Scandal too Many,Nobility
+48,One Scandal too Many,Finishing schools
+28,Gothictown,Small towns
+28,Gothictown,Georgia
+25,Fight or Flight,Authors
+25,Fight or Flight,Recluse people
+18,"Bent, but not broken",African-Americans
+18,"Bent, but not broken",Mothers and saughters
+19,The Big Fix,Amateur sleuth
+19,The Big Fix,Mistaken identity
+56,The Heir,"Victoria, Queen of England"
+56,The Heir,Nobility
+54,Murder at the Wham Bam Club,Nightclubs
+54,Murder at the Wham Bam Club,Nineteen-twenties
+55,Colony of Lost Souls,Cults
+55,Colony of Lost Souls,Missing persons
+57,Diamonds in Auschwitz,World War II
+57,Diamonds in Auschwitz,Man-woman relationships
+17,Beach Vibes,Beaches
+17,Beach Vibes,Man-woman relationships
+4,The Serviceberry,Nature
+4,The Serviceberry,Indigenous
+20,Buffalo Hunter Hunter,Indigenous
+20,Buffalo Hunter Hunter,Vampires
+26,Fisherman's gift,Scotland
+26,Fisherman's gift,Missing children
+59,The Missing Half,Cold cases
+59,The Missing Half,Missing persons
+58,Not quite dead yet,Murder
+58,Not quite dead yet,Family secrets
+60,Fox,Private schools
+60,Fox,Murder
